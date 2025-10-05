@@ -1,0 +1,5 @@
+{
+  "name": "Image Downloader Pro",
+  "description": "A web-based image downloader that fetches images from various sources like Google, Pixabay, and FootyRenders, with advanced features for managing, deleting, and batch-downloading images.",
+  "requestFramePermissions": []
+}
